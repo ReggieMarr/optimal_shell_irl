@@ -1,0 +1,216 @@
+#+title: Optimizing for the best shell experience
+
+* Summary
++ Shell Material:
+  The Marmot Alpinist and MEC Synergy HD are made with recycled nylon, while the Helly Hansen jackets are made with different materials: recycled polyester, polyamide, and polypropylene.
++ Price:
+  The Marmot Alpinist is the most expensive, while the Helly Hansen Verglas Infinity is the least expensive. The other three jackets are priced in between.
++ Weight:
+  The MEC Synergy HD is the heaviest, while the Helly Hansen Odin 1 is the lightest. The other three jackets fall in between.
++ Breathability:
+  The Marmot Alpinist and MEC Synergy HD use GORE-TEX technology, while the Helly Hansen jackets use LIFA INFINITY™ technology. The Odin 9 jacket uses the slightly more advanced LIFA INFINITY PRO™ technology.
++ Pockets:
+  The Marmot Alpinist does not have chest pockets or internal pockets. All other jackets have chest pockets, and the MEC Synergy HD and Helly Hansen Odin 9 also have internal pockets.
++ RECCO:
+  The Marmot Alpinist does not have a RECCO reflector. All other jackets do.* Brand Specifics
+
+| Jacket                        | Price | Weight | Shell Material                        | Breathability      | Ventilation Zips | Hand Pockets | Chest Pockets | Internal Pockets | Helmet-Compatible Hood | RECCO |
+|-------------------------------+-------+--------+---------------------------------------+--------------------+------------------+--------------+---------------+------------------+------------------------+-------|
+| Marmot Alpinist               | $650  | 516g   | 100% Recycled Nylon                   | GORE-TEX® Pro      | Yes              | Yes          | No            | No               | Yes                    | No    |
+| MEC Synergy HD                | $500  | 670g   | 140-denier recycled nylon             | GORE-TEX®          | Yes              | Yes          | Yes           | Yes              | Yes                    | Yes   |
+| Helly Hansen Verglas Infinity | $435  | 500g   | 54% Recycled polyester, 46% Polyester | LIFA INFINITY™     | Yes              | Yes          | No            | No               | Yes                    | Yes   |
+| Helly Hansen Odin 1           | $488  | 450g   | 100% Polyamide                        | LIFA INFINITY™     | Yes              | Yes          | Yes           | No               | Yes                    | Yes   |
+| Helly Hansen Odin 9           | $525  | 550g   | 100% Polypropylene                    | LIFA INFINITY PRO™ | Yes              | Yes          | Yes           | Yes              | Yes                    | Yes   |
+** MEC
+*** [[https://www.mec.ca/en/product/6000-457/synergy-hd-gore-tex-jacket][Synergy HD Jacket ($500)]]
+[[file:mec.jpg][MEC Synergy]]
+**** Summary
+Redesigned for 2020, the Synergy HD Jacket is a windproof and waterproof barrier designed for skiers and climbers. Made with a lightweight, supple and packable GORE-TEX® face fabric, the jacket offers superior waterproofness and breathability. It features harness-accessible pockets, a high collar, and a helmet-compatible hood with cordlock adjustments.
+**** DETAILS
++ Fiber content:
++ Shell: 140-denier recycled nylon
++ Lining/backer: Nylon
++ Care Instructions: Not Provided
++ Weight:
++ 670g (for Medium size)
++ FEATURES
++ GORE-TEX® technology
++ Fully seam-taped construction
++ Climbing helmet-compatible hood with embedded Cohaesive cordlock adjustments
++ Water-resistant front zipper with an inner storm flap
++ Underarm vents with 2-way watertight zips
++ Contoured cuffs with Velcro® tabs
++ Harness and backpack compatible pockets
++ 2 chest pockets with water-tight zippers
++ 2 zippered handwarmer pockets with water-tight zippers
++ 1 internal pocket
++ Shock-cord adjustable hem with embedded Cohaesive cordlock adjustment
++ Built-in Recco® Rescue System reflector
+**** PERFORMANCE
++ Windproof: Yes
++ Waterproofness: High (GORE-TEX, waterproof rating 20,000mm)
++ Breathability: High (Fabric active breathability 25,000g/m2/24h)
++ Lightness: Not Provided
++ Durability: High (Made for alpine climbing, mountaineering, backcountry skiing, camping and hiking)
+
+** Marmot
+*** [[https://www.marmot.com/men/jackets-and-vests/rainwear/mens-gore-tex-alpinist-jacket/AFS_195115136345.html][Men's Alpinist Jacket ($625)]]
+[[file:alpenist.jpg][Alpenist]]
+**** Summary
+This is a high-performance jacket designed for severe alpine conditions. It is made with ultra-durable, yet breathable Recycled GORE-TEX® Pro for maximum waterproofness. It also features an attached hood and a drawcord hem for added coverage in colder temperatures.
+**** DETAILS
++ Fiber content:
++ Shell: 100% Recycled Nylon
++ Care Instructions:
++ Machine Wash Warm, Use Liquid Detergent, Gentle Cycle, Tumble Dry Low, Do Not Iron, Do Not Bleach, Do Not Dry Clean. If Dry Cleaned, Request Clean Distilled Hydrocarbon Solvent And Water Repellent Treatment. Do Not Use Fabric Softener, Rinse Twice, Do Not Store Wet.
++ Weight:
++ 516g
++ FEATURES
++ GORE-TEX® Pro technology
++ 100% seam taped
++ Attached helmet-compatible hood with peripheral cord adjustment
++ Two-way, water-resistant PitZips for ventilation
++ Pack pockets with water-resistant zippers
++ Two-way, water-resistant zipper with snap bottom
++ Adjustable drawcord hem
++ VELCRO® adjustable cuffs
+**** PERFORMANCE
++ Windproof: Not Provided
++ Waterproofness: High (GORE-TEX Pro)
++ Breathability: High (GORE-TEX Pro)
++ Lightness: Not Provided
++ Durability: High (Made for severe alpine conditions)
+** Helly Hansen
+*** Summary
+| Jacket                      | Material                              | Weight (g) | Site ($CAD) | Lowest ($CAD) | Notable Features                                                                                                                                       |
+|-----------------------------+---------------------------------------+------------+-------------+---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Verglas Infinity Shell      | 54% Recycled polyester, 46% Polyester |        500 | $435        | $374          | LIFA INFINITY™ technology, RECCO® transponder, pit zips, helmet, backpack, harness compatible, waist draw cord, no chest pocket, 2 large front pockets |
+| Odin 1 World Infinity Shell | 100% Polyamide                        |        450 | $488        | $435          | LIFA INFINITY™ technology, RECCO® transponder, pit zips, helmet, backpack, harness compatible, 1 chest pocket, 2 front pockets                         |
+| Odin 9 World Infinity Shell | 100% Polypropylene                    |        550 | $525        | $440          | LIFA INFINITY PRO™ technology, RECCO® transponder, pit zips, helmet, backpack, harness compatible, 1 chest pocket, 2 large front pockets               |
+
++ Materials:
+  The Verglas Infinity uses a mix of recycled polyester and polyester, while the Odin 1 uses 100% Polyamide, and the Odin 9 uses 100% Polypropylene. The materials can influence the feel, durability, and potentially the breathability and waterproofness of the jackets. Polypropylene tends to be more durable and resistant to abrasion compared to polyester, and polyamide is generally more durable and has a better feel compared to polypropylene.
++ Weight:
+  The Odin 1 is the lightest at 450g, followed by the Verglas Infinity at 500g, and the Odin 9 is the heaviest at 550g. Even though the differences are minor, they could potentially impact comfort and ease of movement during long-term use, especially in activities that involve a lot of motion like snowboarding or hiking. A lighter jacket might feel less cumbersome.
++ Articulatibility:
+  All jackets feature articulated sleeves for optimal mobility, providing excellent freedom of movement for arms which is especially useful in activities like snowboarding or sailing.
++ Style:
+  You've mentioned that the Odin 9 is the most stylish, followed by the Odin 1, and the Verglas Infinity is the least stylish. This is of course subjective and dependent on personal preferences. The look of a jacket might not impact its performance, but could affect your satisfaction and enjoyment of using it.
++ Technology:
+  The Verglas Infinity and Odin 1 use LIFA INFINITY™ technology while the Odin 9 uses the slightly superior LIFA INFINITY PRO™ technology. The LIFA INFINITY PRO™ is expected to provide slightly better waterproofness without the need for a re-application of DWR later on.
++ Pockets:
+  The Odin 1 and Odin 9 both have chest pockets, while the Verglas Infinity does not. The Odin 9 has larger front pockets compared to the Odin 1, while the Verglas Infinity has two large front pockets as well. This could impact the functionality and convenience of the jackets, particularly for activities where easy access to items (like maps, compass, phone, etc.) stored in pockets is important.
+
+*** [[https://www.hellyhansen.com/en_ca/verglas-infinity-shell-jacket-63055?color=627661][MEN’S VERGLAS INFINITY SHELL JACKET (on Sale for $435)]]
+[[file:verglas.jpg][Verglas]]
+**** Summary
+We designed this shell jacket with input from pros who stay mountainside for long days in changeable weather. Made for backcountry skiing, hiking and mountaineering, the jacket has our extremely waterproof/ breathable LIFA INFINITY™ technology – responsible protection without the use of chemicals. It’s constructed with a recycled face fabric and a PFC-free durable water repellent treatment – more wins for you and the environment. The hard shell delivers max protection and layering capability. We added the details that count: helmet, backpack and harness-compatible design, a RECCO® transponder, pit zips for ventilation and waist draw cord for extra warmth in wind.
+**** DETAILS
++ Fiber content:
++ Shell: 54% Recycled polyester, 46% Polyester
++ Care Instructions:
++ Close zippers before washing. Wash with similar colours.
++ Weight:
++ 500g
++ FEATURES
++ HELLY TECH® Professional
++ LIFA INFINITY™
++ YKK® Zipper
++ RECCO®
++ 3-layer construction
++ Mechanical ventilation zippers
++ Hand pockets with YKK® zipper
++ Helmet compatible hood
++ Backpack and harness compatible design
++ Full inner front placket
++ Vertical and horizontal hood adjustment
++ Articulated sleeves for optimal mobility
++ HH printed logo
++ Adjustable cuff with fastener
++ Tail drop
++ Adjustable hem
++ Fully seam sealed
++ Recycled Content
++ PFC-free
+**** PERFORMANCE
+Windproof 6/6
+Waterproofness 6/6
+Breathability 6/6
+Lightness 6/6
+Durability 6/6
+*** [[https://www.hellyhansen.com/en_ca/odin-1-world-infinity-jacket-63099?color=629129][MEN'S ODIN 1 WORLD INFINITY SHELL JACKET (On sale for $488)]]
+[[file:odin1.jpg][Odin 1]]
+**** Summary
+The lightweight and durable Odin 1 World Infinity shell jacket features the most purposeful weatherproofing you’ll need on your next mountain trip. With our LIFA INFINITY™ technology, it has a professional grade waterproof/breathable membrane and a PFC-free water repellent treatment achieved without the use of chemicals. The exterior shell fabric is made from recycled materials. Designed with input from Search and Rescue teams, this jacket also has a helmet-compatible hood, a Recco® transponder so you’re findable in the wilderness and an emergency whistle in the chest pocket.
+**** DETAILS
++ Fiber content:
++ Shell: 100% Polyamide
++ Care Instructions:
++ Close hook and loop before washing. Close zippers before washing. Remove promptly from the washer. Do not use fabric softener. Wash with similar colours. Do not use washing detergent. Use washing agent for technical garments.
++ Weight:
++ 450g
+**** FEATURES
+HELLY TECH® Professional
+LIFA INFINITY™
+RECCO®
+3-layer construction
+Brushed tricot chin guard
+Fully seam sealed
+Adjustable hem
+Articulated sleeves for optimal mobility
+Backpack and harness compatible design
+Embroidered Helly Hansen (HH) logo
+Helmet compatible hood
+Mechanical ventilation zippers
+Tail drop
+Vertical and horizontal hood adjustment
+Flat brim
+Chest and Hand pockets with YKK® zipper
+Inside stash pockets
+Brushed tricot inside collar
+PFC-free
+Recycled Content
+**** PERFORMANCE
++ Windproof 6/6
++ Waterproofness 6/6
++ Breathability 6/6
++ Lightness 6/6
++ Durability 6/6
+*** [[https://www.hellyhansen.com/en_ca/odin-9-worlds-infinity-shell-j-62684][MEN'S ODIN 9 WORLD INFINITY SHELL JACKET (On sale for $525)]]
+[[file:odin9.jpg][Odin9]]
+**** Summary
+Your next adventure is calling. One jacket will take you all the way. Versatile and durable, our award-winning 3-layer shell jacket returns with a watershed tech upgrade. We gave the new Odin 9 Worlds an extremely waterproof/breathable LIFA INFINITY™ membrane engineered to give you everlasting water repellent performance without the use of chemicals — a win for you and the environment. Our revolutionary LIFA Infinity Pro™ is a first-to-market, planet-friendly tech. In addition to extreme weather protection on the trail, the Odin has an articulated fit for maximum mobility. Additional features with a big impact on your trip comfort include: a 2-way central zip, pit zips for ventilation, helmet and backpack-compatible design, an adjustable hood and roomy gear pockets.
+**** DETAILS
++ Fiber content:
++ Shell: 100% Polypropylene
++ Care Instructions:
++ Use washing agent for technical garments. Do not use washing detergent. Do not use fabric softener. Wash separately. Remove promptly from the washer. Some fading may occur on bright colours. Close hook and loop before washing. Close zippers before washing.
++ Weight:
++ 550g
++ FEATURES
++ HELLY TECH® Professional
++ LIFA INFINITY PRO™
++ RECCO®
++ 3-layer construction
++ Brushed tricot chin guard
++ Brushed tricot inside collar
++ Fully seam sealed
++ Adjustable hem
++ Articulated sleeves for optimal mobility
++ Backpack and harness compatible design
++ Embroidered Helly Hansen (HH) logo
++ Helmet compatible hood
++ Mechanical ventilation zippers
++ Tail drop
++ Vertical and horizontal hood adjustment
++ Adjustable cuff with fastener
++ Chest and Hand pockets with YKK® zipper
++ Inside stash pockets
++ Solution Dyed
++ PFC-free
+**** PERFORMANCE
++ Windproof 6/6
++ Waterproofness 6/6
++ Breathability 6/6
++ Lightness 6/6
++ Durability 6/6
